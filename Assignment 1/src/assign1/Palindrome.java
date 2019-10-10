@@ -65,4 +65,5 @@ public class Palindrome {
 	
 		return isPal;
 	}
+	System.out.println("Wassup yaaaaaaaal");
 }
